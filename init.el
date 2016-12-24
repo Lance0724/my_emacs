@@ -41,25 +41,25 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (zygospore 
-	 helm-gtags 
-	 helm yasnippet 
-	 ws-butler 
-	 volatile-highlights 
-	 use-package 
-	 undo-tree 
-	 iedit 
-	 dtrt-indent 
-	 counsel-projectile 
-	 company 
-	 clean-aindent-mode 
-	 sr-speedbar
-	 anzu
-	 color-theme 
-	 color-theme-sanityinc-solarized 
-	 color-theme-sanityinc-tomorrow 
-	 atom-dark-theme
-	 )))
+    (zygospore
+         helm-gtags
+         helm yasnippet
+         ws-butler
+         volatile-highlights
+         use-package
+         undo-tree
+         iedit
+         dtrt-indent
+         counsel-projectile
+         company
+         clean-aindent-mode
+         sr-speedbar
+         anzu
+         color-theme
+         color-theme-sanityinc-solarized
+         color-theme-sanityinc-tomorrow
+         atom-dark-theme
+         )))
 
  '(custom-enabled-themes (quote (atom-dark)))
 
